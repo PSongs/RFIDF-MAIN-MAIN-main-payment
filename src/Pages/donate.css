@@ -170,6 +170,10 @@
     top: 0;
     overflow: auto;
   }
+
+  form h2{
+    color: orange;
+  }
   
   .form-container {
     background-color: #fff;
