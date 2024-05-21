@@ -72,7 +72,16 @@ ul a:hover {
   width: 30px;
   height: 30px;
   font-size: 20px;
+  background-color: none;
   color: black;
+}
+
+.button1{
+  background-color: white;
+}
+
+.button1:hover{
+  background-color: white;
 }
 
 .divName .button2 {
@@ -110,7 +119,7 @@ ul a:hover {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 100svh;
   background: rgba(0, 0, 0, 0.8);
   display: flex;
   justify-content: center;
@@ -124,17 +133,24 @@ ul a:hover {
   border-radius: 8px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
-  width: 80%;
+  align-content: center;
+  align-items: center;
+  width: 60%;
   max-width: 500px;
 }
 
 .close-button {
   align-self: flex-end;
   border: none;
-  background: none;
+  width: 100%;
+  height: auto;
+  background: #2B382D;
   font-size: 24px;
   cursor: pointer;
+  position: relative;
+  z-index: 1000;
 }
 
 .search-input {
