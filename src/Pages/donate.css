@@ -172,7 +172,7 @@
   }
 
   form h2{
-    color: orange;
+    color: white;
   }
   
   .form-container {
@@ -202,7 +202,7 @@
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: orange;
+    color: white;
   }
   
   input,
