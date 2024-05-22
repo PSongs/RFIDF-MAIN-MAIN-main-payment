@@ -5,7 +5,7 @@ const ResponsiveIframe = ({ src }) => {
     <div className="iframe-container">
       <iframe
         src={src}
-        title="FIDF Live Briefing"
+        title="Press Briefing by IDF "
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen

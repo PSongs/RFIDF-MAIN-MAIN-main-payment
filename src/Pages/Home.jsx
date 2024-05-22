@@ -127,7 +127,7 @@ const Home = () => {
         <div>
           <h2>RFIDF’s special briefings give insider access to information on the Hamas-Israel War not covered by the media. You will be transported directly to the front lines for real-time updates into IDF heroes’ experiences, challenges, and triumphs.</h2>
           <div className="iframe">
-            <ResponsiveIframe src="https://www.youtube.com/embed/1gAxCreD5_g" />
+            <ResponsiveIframe src="https://www.youtube.com/embed/DLyjqToDQYo?si=JkGwfAtYQKObv2fr" />
           </div>
         </div>
       </div>
